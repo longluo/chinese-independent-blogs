@@ -1073,7 +1073,7 @@
 | [Feed](https://www.cnsre.cn/index.xml) | SRE运维博客 | https://www.cnsre.cn | Linux; 自动化运维; AWS; K8S |
 | [Feed](https://hiripple.com/feed) | Ripple's blog | https://hiripple.com | 技术; 游戏; 生活 |
 | [Feed](https://liangyuanpeng.com/index.xml) | 远鹏的博客 | https://liangyuanpeng.com | 云原生; Pulsar; CNCF; CDF; 容器; K8S |
-| [Feed](https://windypath.com/index.xml) | 风萧古道 | https://windypath.com | 编程; 软件; 技术 |
+| [Feed](https://windypath.com/rss.xml) | 风萧古道 | https://windypath.com | 编程; 软件; 技术 |
 | [Feed](https://blog.fanmiao.site/feed) | 饭喵 | https://blog.fanmiao.site | 编程; 智能; 生活 |
 | [Feed](https://blog.zerolacqua.top/atom.xml) | 丘卡饮品店 | https://blog.zerolacqua.top/ | 学习; 生活; 编程 |
 | [Feed](http://yyy.zone/rss) | 识文解意的爱书人 | http://yyy.zone/ | 笔记; 札记 |
@@ -1390,6 +1390,17 @@
 | [Feed](https://blog.beltfish.cn/feed/) | 带鱼Blog | https://blog.beltfish.cn/ | 生活; 日常; 审计; 财务; 数码 |
 | [Feed](https://blog.afingpo.top/rss.xml) | 涵哲子居 | https://blog.afingpo.top/ | 日常; 随笔; 乱七八糟 |
 | [Feed](https://supergrey.bearblog.dev/rss/) | SuperGrey的笔记本 | https://supergrey.bearblog.dev/ | 阅读随笔; 动漫影评 |
+| [Feed](https://xingwangzhe.fun/rss.xml) | 姓王者的博客 | https://xingwangzhe.fun/ | 编程，随笔，大学，生活，开源 |
+| [Feed](https://bookvision7.com/feed.xml) | 书远见 | https://bookvision7.com/ | 编程，技术，生活，思考 |
+| [Feed](https://Ashlord.com/feed.xml) | solaireh3 | https://Ashlord.com | 医学，生活，随笔，原创 |
+| [Feed](https://www.sumi233.top/rss.xml) | 酥米的小站 | https://www.sumi233.top | 生活，技术，网络，日常，随笔 |
+| [Feed](https://xieyi.org/rss.xml) | 謝懿Shine©的AI博客 | https://xieyi.org | 技术开源; 大模型; AI; 生活; 随笔; 笔记 |
+| [Feed](https://www.yt-blog.top/atom.xml) | Fgaoxing的博客 | https://www.yt-blog.top/ | 技术; 开源; 随笔; 笔记 |
+| [Feed](https://fuwari.oh1.top/rss.xml) | yCENzh's Blog | https://fuwari.oh1.top/ | 技术; 随笔; 笔记; 乱七八糟 |
+| [Feed](https://www.krjojo.com/feed) | 手里有只毛毛虫 | https://www.krjojo.com/ | 技术; 开源; 随笔; 生活 |
+| [Feed](https://changchen.me/atom.xml) | Henry Z's blog | https://changchen.me/ | 技术; Python; SRE; 生活 |
+| [Feed](https://fenglielie.top/atom.xml) | fenglielie | https://fenglielie.top/ | 编程; 技术; 笔记 |
+| [Feed](https://zelikk.blogspot.com/rss.xml) | ICDYCT我能你也行 | https://zelikk.blogspot.com/ | 编程; 随想; DIY |
 ## 什么是独立博客
 
 - 拥有自己的域名
