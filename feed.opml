@@ -740,7 +740,7 @@
 <outline text="文轩的Blog" title="文轩的Blog" type="rss" xmlUrl="https://allanware.github.io/zh/index.xml" htmlUrl="https://allanware.github.io/zh/"/>
 <outline text="Airing's Blog" title="Airing's Blog" type="rss" xmlUrl="https://blog.ursb.me/feed.xml" htmlUrl="https://ursb.me/"/>
 <outline text="杨宝强的技术笔记" title="杨宝强的技术笔记" type="rss" xmlUrl="https://bqyang.top/atom.xml" htmlUrl="https://bqyang.top/"/>
-<outline text="Raz1ner" title="Raz1ner" type="rss" xmlUrl="https://dev-coco.github.io/atom.xml" htmlUrl="https://dev-coco.github.io/"/>
+<outline text="Raz1ner" title="Raz1ner" type="rss" xmlUrl="https://raz1ner.com/atom.xml" htmlUrl="https://raz1ner.com/"/>
 <outline text="DAVID'S BLOG" title="DAVID'S BLOG" type="rss" xmlUrl="https://blog.blahaj.uk/feed" htmlUrl="https://blog.blahaj.uk/"/>
 <outline text="Ethan's Blog" title="Ethan's Blog" type="rss" xmlUrl="https://ethan-phu.github.io/index.xml" htmlUrl="https://ethan-phu.github.io"/>
 <outline text="jinji's Blog" title="jinji's Blog" type="rss" xmlUrl="https://jinjipang.com/index.xml" htmlUrl="https://jinjipang.com"/>
@@ -1045,7 +1045,7 @@
 <outline text="Ruter's Blog" title="Ruter's Blog" type="rss" xmlUrl="https://ruterly.com/feed/" htmlUrl="https://ruterly.com/"/>
 <outline text="小吴乐意’blog" title="小吴乐意’blog" type="rss" xmlUrl="http://xiaowuleyi/feed" htmlUrl="https://www.xiaowuleyi.com/"/>
 <outline text="Gary's Blog" title="Gary's Blog" type="rss" xmlUrl="https://garymeng.com/feed/" htmlUrl="https://garymeng.com/"/>
-<outline text="局域自由" title="局域自由" type="rss" xmlUrl="https://localfreedom.github.io/index.xml" htmlUrl="https://localfreedom.github.io/"/>
+<outline text="局域自由" title="局域自由" type="rss" xmlUrl="https://localfreedom.pages.dev/index.xml" htmlUrl="https://localfreedom.pages.dev/"/>
 <outline text="Qifei's Blog" title="Qifei's Blog" type="rss" xmlUrl="https://blog.sci.ci/rss2.xml" htmlUrl="https://blog.sci.ci/"/>
 <outline text="猫四叔" title="猫四叔" type="rss" xmlUrl="https://yuanj.top/index.xml" htmlUrl="https://yuanj.top/"/>
 <outline text="云无心天天向上" title="云无心天天向上" type="rss" xmlUrl="https://yangk.net/blog/rss.xml" htmlUrl="https://yangk.net/blog/"/>

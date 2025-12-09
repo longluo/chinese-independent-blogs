@@ -824,7 +824,7 @@
 | None | Luwang's Blog | https://myblog.wallleap.cn/ | 前端; 网络; 设计; 广告; 生活 |
 | [Feed](https://blog.ursb.me/feed.xml) | Airing's Blog | https://ursb.me/ | 生活; 随笔; 技术 |
 | [Feed](https://bqyang.top/atom.xml) | 杨宝强的技术笔记 | https://bqyang.top/ | 编程; Golang; 生活; 随笔; 技术 |
-| [Feed](https://dev-coco.github.io/atom.xml) | Raz1ner | https://dev-coco.github.io/ | Excel函数; Google脚本; 技术; 随笔; 软件 |
+| [Feed](https://raz1ner.com/atom.xml) | Raz1ner | https://raz1ner.com/ | Excel函数; Google脚本; 技术; 随笔; 软件 |
 | [Feed](https://blog.blahaj.uk/feed) | DAVID'S BLOG | https://blog.blahaj.uk/ | 生活; 随笔; 影评; 作品集 |
 | [Feed](https://ethan-phu.github.io/index.xml) | Ethan's Blog | https://ethan-phu.github.io | 生活; 技术; 后端; 深度学习 |
 | [Feed](https://jinjipang.com/index.xml) | jinji's Blog | https://jinjipang.com | 爱好; 随笔; 生物; 统计 |
@@ -1172,7 +1172,7 @@
 | [Feed](https://ruterly.com/feed/) | Ruter's Blog | https://ruterly.com/ | 编程; 技术; 随笔; 开发; 分享 |
 | [Feed](http://xiaowuleyi/feed) | 小吴乐意’blog | https://www.xiaowuleyi.com/ | 生活随想; 商业思考 |
 | [Feed](https://garymeng.com/feed/) | Gary's Blog | https://garymeng.com/ | 编程; IT技术; 海外工作; AI Agent |
-| [Feed](https://localfreedom.github.io/index.xml) | 局域自由 | https://localfreedom.github.io/ | 软件; 隐私; 笔记 |
+| [Feed](https://localfreedom.pages.dev/index.xml) | 局域自由 | https://localfreedom.pages.dev/ | 软件; 隐私; 笔记; 本地化 |
 | [Feed](https://blog.sci.ci/rss2.xml) | Qifei's Blog | https://blog.sci.ci/ | 学习笔记; 机器学习; 前端; 算法; 开源 |
 | [Feed](https://yuanj.top/index.xml) | 猫四叔 | https://yuanj.top/ | 学习; 生活; 生物信息学 |
 | [Feed](https://yangk.net/blog/rss.xml) | 云无心天天向上 | https://yangk.net/blog/ | 闲谈; 笔记; 阅读 |
